@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="notif_previous">Previous</string>
-  <string name="notif_stop">Dayandır</string>
-  <string name="notif_next">Next</string>
+  <string name="notif_previous">Précédent</string>
+  <string name="notif_stop">Arrêter</string>
+  <string name="notif_next">Suivant</string>
 </resources>
