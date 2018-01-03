@@ -17,6 +17,6 @@
 -->
 <resources>
   <string name="notif_previous">Previous</string>
-  <string name="notif_stop">הפסק</string>
+  <string name="notif_stop">Stop</string>
   <string name="notif_next">Next</string>
 </resources>
